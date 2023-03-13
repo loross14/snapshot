@@ -1,4 +1,9 @@
-Qeustion 1: 
+This is a program to calculate the DAO voting participation on Snapshot.
+
+instructions: 
+
+1. run vote.py to generate a txt file with vote counts for all addresses 
+2. run top20.py to find and print the top 20 voters and their participation rate to the console.
 
 Here are the top 20 voters:
 
@@ -27,11 +32,4 @@ Address                                         Votes  Particpation Rate
 
 
 
-Question 2: UPenn's voting rate is 110/205 = ~53.6%
-
-
-
-instructions: 
-
-1. run vote.py to generate a txt file with vote counts for all addresses 
-2. run top20.py to find and print the top 20 voters and their participation rate to the console.
+Example: UPenn's voting rate is 110/205 = ~53.6%
